@@ -4,4 +4,4 @@ command = "hugo --gc --minify"
 
 [context.deploy-preview]
 publish = "public"
-command = "hugo --gc --minify --buildDrafts"
+command = "hugo --gc --buildDrafts"
