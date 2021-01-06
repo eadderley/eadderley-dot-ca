@@ -4,12 +4,12 @@ date: 2021-01-06T13:31:32-08:00
 draft: true
 ---
 
-#Contact
+# Contact
 1. Why don't you have any contact information provided?
 
 If you need to reach me, you already know how. I'm not currently looking for a job, I'm not terribly important, and I'm not on-call anymore. Win.
 
-#Website Stuff
+# Website Stuff
 
 1. Why'd you build this site?
 
