@@ -1,0 +1,4 @@
+baseURL = "http://eadderley.ca"
+languageCode = "en-us"
+title = "Edmund Adderley"
+theme = "dimension"
