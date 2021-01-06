@@ -1,7 +1,6 @@
 ---
 title: "FAQ"
 date: 2021-01-06T13:31:32-08:00
-draft: true
 ---
 
 # Contact
