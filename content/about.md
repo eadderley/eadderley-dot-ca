@@ -7,4 +7,4 @@ I'm a systems engineer. I like making discrete systems talk to each other. This 
 
 Currently working on improving my abysmal coding skills.
 
-[FAQ]({{< ref "/posts/faq.md" >}} "Frequently Asked Questions")
+[FAQ]({{< relref "posts/faq.md" >}} "Frequently Asked Questions")
